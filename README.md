@@ -1,5 +1,7 @@
 ### Network Security Projects For Phising Data
 
+
+
 Network Threat Detection Using Machine Learning is an end-to-end cybersecurity project that detects phishing and malicious network activity using machine learning. It features a complete ML pipeline including data ingestion, validation, transformation, model training, and prediction. The system is built with FastAPI for real-time inference, MongoDB for data storage, and Docker for scalable cloud deployment.
 
 Setup github secrets:
@@ -30,3 +32,4 @@ sudo usermod -aG docker ubuntu
 
 
 newgrp docker
+
