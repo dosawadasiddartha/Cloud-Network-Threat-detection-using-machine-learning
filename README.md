@@ -1,4 +1,4 @@
-### Network Security Projects For Phising Data
+### Network Security Project For Phising Data
 
 
 
@@ -32,4 +32,5 @@ sudo usermod -aG docker ubuntu
 
 
 newgrp docker
+
 
